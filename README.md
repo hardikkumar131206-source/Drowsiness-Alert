@@ -311,10 +311,7 @@ Replace this section with your own live-webcam observations, for example how man
 - Haar cascade files are distributed with OpenCV.
 - Dataset: *Yawn Eye Dataset New* on Kaggle.
 
-## License
-
-[Choose a license, for example MIT, and add a LICENSE file to the repository.]
 
 ## Author
 
-[Your name] - [LinkedIn or portfolio link]
+[Hardik Kumar] - [https://www.linkedin.com/in/hardik-kumar-7631a832b/]
