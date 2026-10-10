@@ -4,7 +4,9 @@ A real-time drowsiness detector built with Python, OpenCV and a Keras CNN. It wa
 
 > **Status:** educational project. It is a demonstration of a computer vision pipeline, not a certified safety product. See [Limitations](#limitations).
 
-[Demo GIF or screenshot goes here]
+<img width="641" height="512" alt="image" src="https://github.com/user-attachments/assets/5702ad49-c702-492f-8c7c-27214826d38a" />
+<img width="641" height="505" alt="image" src="https://github.com/user-attachments/assets/a661f4c2-907d-4710-895b-aaf8d22a25f1" />
+
 
 ---
 
@@ -25,7 +27,6 @@ A real-time drowsiness detector built with Python, OpenCV and a Keras CNN. It wa
 13. [Future Work](#future-work)
 14. [Troubleshooting](#troubleshooting)
 15. [Acknowledgements](#acknowledgements)
-16. [License](#license)
 
 ---
 
@@ -314,4 +315,6 @@ Replace this section with your own live-webcam observations, for example how man
 
 ## Author
 
-[Hardik Kumar] - [https://www.linkedin.com/in/hardik-kumar-7631a832b/]
+Name - [Hardik Kumar]
+Linkedin - [https://www.linkedin.com/in/hardik-kumar-7631a832b/]
+Email - [hardikkumar131206@gmail.com]
