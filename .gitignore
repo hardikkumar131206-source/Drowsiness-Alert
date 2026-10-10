@@ -1,0 +1,6 @@
+venv/
+dataset/
+__pycache__/
+*.pyc
+image.jpg
+models/cnnCat2.keras
